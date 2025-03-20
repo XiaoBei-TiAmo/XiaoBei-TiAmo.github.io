@@ -84,7 +84,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     motto: ['和你的日常，就是奇迹', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
     social: [
       { icon: 'github', url: 'https://github.com/' },
-      { icon: 'bilibili', url: 'https://www.bilibili.com/' },
+      { icon: 'bilibili', url: 'htps://m.bilibili.com/space/35371204178704?&unique_k=2333' },
       { icon: 'qq', url: 'https://qm.qq.com/q/p1Qk0jXIIg' },
       { icon: 'wechat', url: 'https://weixin.qq.com/' },
     ],
