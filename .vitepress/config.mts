@@ -85,7 +85,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     social: [
       { icon: 'github', url: 'https://github.com/' },
       { icon: 'bilibili', url: 'https://www.bilibili.com/' },
-      { icon: 'qq', url: 'https://qm.qq.com/q/p1Qk0jXIg' },
+      { icon: 'qq', url: 'https://qm.qq.com/q/p1Qk0jXIIg' },
       { icon: 'wechat', url: 'https://weixin.qq.com/' },
     ],
 
