@@ -83,8 +83,8 @@ export default defineConfigWithTheme<ThemeConfig>({
     welcomeText: 'Hello, VitePress',
     motto: ['和你的日常，就是奇迹', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
     social: [
-      { icon: 'github', url: 'https://github.com/' },
-      { icon: 'bilibili', url: 'htps://m.bilibili.com/space/3537120417287044?&unique_k=2333' },
+      { icon: 'github', url: 'https://github.com/XiaoBei-TiAmo/' },
+      { icon: 'bilibili', url: 'https://m.bilibili.com/space/3537120417287044?&unique_k=2333' },
       { icon: 'qq', url: 'https://qm.qq.com/q/p1Qk0jXIIg' },
       { icon: 'wechat', url: 'https://weixin.qq.com/' },
     ],
